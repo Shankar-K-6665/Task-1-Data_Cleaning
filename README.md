@@ -1,5 +1,7 @@
 # Task 1 Data_cleaning & preprocessing (Elevate Labs Internship)
 
+This project uses the Mall Customers dataset and focuses on simple data cleaning for analysis
+
 # Files
 - Mall_Customers.csv
 - Cleaned_dataset.csv 
